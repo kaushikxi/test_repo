@@ -1,2 +1,0 @@
-user: kaushikq8
-password: 123
